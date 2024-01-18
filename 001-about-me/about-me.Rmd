@@ -13,6 +13,7 @@ bibliography: references.bib
 
 # Who I am and where I came from
 
+We are going to read @lou2022batch in class soon.
 
 First off, replace "Insert Name Here" in the YAML header with your name.
 It has to be surrounded by double quotation marks. 
